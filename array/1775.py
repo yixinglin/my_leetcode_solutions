@@ -88,5 +88,3 @@ if __name__ == "__main__":
     #nums1 = [1, 1, 1, 1, 1, 1, 1]
     #nums2 = [6]
 
-    res = Solution().minOperations(nums1, nums2)
-    print("result", res)
